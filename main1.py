@@ -4,7 +4,7 @@ import random
 print("Osztálzatok generálása.")
 
 #1
-db = int(input("Kérem az osztályzatok számát"))
+db = int(input("Kérem az osztályzatok számát: "))
 
 osztalyzatok = []
 #mivel ismerjük a drbok számát- ezért a generálást előre meghatározott ciklusba végezzük.
